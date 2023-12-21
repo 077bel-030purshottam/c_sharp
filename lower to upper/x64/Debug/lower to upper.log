@@ -1,0 +1,3 @@
+﻿  lower to upper.cpp
+C:\Users\pursh\source\repos\lower to upper\lower to upper.cpp(41,20): error C2086: 'char str1[50]': redefinition
+C:\Users\pursh\source\repos\lower to upper\lower to upper.cpp(39): message : see declaration of 'str1'

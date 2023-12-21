@@ -1,0 +1,8 @@
+D:\third sem\c#\repos\indexers\bin\Debug\indexers.exe.config
+D:\third sem\c#\repos\indexers\bin\Debug\indexers.exe
+D:\third sem\c#\repos\indexers\bin\Debug\indexers.pdb
+D:\third sem\c#\repos\indexers\obj\Debug\indexers.csproj.AssemblyReference.cache
+D:\third sem\c#\repos\indexers\obj\Debug\indexers.csproj.SuggestedBindingRedirects.cache
+D:\third sem\c#\repos\indexers\obj\Debug\indexers.csproj.CoreCompileInputs.cache
+D:\third sem\c#\repos\indexers\obj\Debug\indexers.exe
+D:\third sem\c#\repos\indexers\obj\Debug\indexers.pdb
