@@ -1,0 +1,8 @@
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\bin\Debug\size_of_the_data_types.exe.config
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\bin\Debug\size_of_the_data_types.exe
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\bin\Debug\size_of_the_data_types.pdb
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\obj\Debug\size_of_the_data_types.csproj.AssemblyReference.cache
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\obj\Debug\size_of_the_data_types.csproj.SuggestedBindingRedirects.cache
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\obj\Debug\size_of_the_data_types.csproj.CoreCompileInputs.cache
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\obj\Debug\size_of_the_data_types.exe
+E:\folder\third sem\c#\intro_part_program\size_of_the_data_types\obj\Debug\size_of_the_data_types.pdb

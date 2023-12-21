@@ -1,0 +1,10 @@
+D:\folder\third sem\c#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+D:\folder\third sem\c#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\folder\third sem\c#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+D:\folder\third sem\c#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+D:\folder\third sem\c#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache
+E:\folder\third sem\c#\obj\Debug\net6.0\c#.csproj.AssemblyReference.cache
+E:\folder\third sem\c#\obj\Debug\net6.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\folder\third sem\c#\obj\Debug\net6.0\c#.AssemblyInfoInputs.cache
+E:\folder\third sem\c#\obj\Debug\net6.0\c#.AssemblyInfo.cs
+E:\folder\third sem\c#\obj\Debug\net6.0\c#.csproj.CoreCompileInputs.cache

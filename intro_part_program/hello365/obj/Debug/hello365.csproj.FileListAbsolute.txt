@@ -1,0 +1,8 @@
+E:\folder\third sem\c#\intro_part_program\hello365\bin\Debug\hello365.exe.config
+E:\folder\third sem\c#\intro_part_program\hello365\bin\Debug\hello365.exe
+E:\folder\third sem\c#\intro_part_program\hello365\bin\Debug\hello365.pdb
+E:\folder\third sem\c#\intro_part_program\hello365\obj\Debug\hello365.csproj.AssemblyReference.cache
+E:\folder\third sem\c#\intro_part_program\hello365\obj\Debug\hello365.csproj.SuggestedBindingRedirects.cache
+E:\folder\third sem\c#\intro_part_program\hello365\obj\Debug\hello365.csproj.CoreCompileInputs.cache
+E:\folder\third sem\c#\intro_part_program\hello365\obj\Debug\hello365.exe
+E:\folder\third sem\c#\intro_part_program\hello365\obj\Debug\hello365.pdb
