@@ -1,0 +1,3 @@
+﻿  practice2.cpp.cpp
+D:\folder\third sem\c#\repos\practice2.cpp\practice2.cpp.cpp(12): warning C4715: 'sum_recursion': not all control paths return a value
+  practice2.cpp.vcxproj -> D:\folder\third sem\c#\repos\practice2.cpp\x64\Debug\practice2.cpp.exe

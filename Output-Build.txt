@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: lower to upper, Configuration: Debug x64 ------
+1>lower to upper.cpp
+1>lower to upper.vcxproj -> C:\Users\pursh\source\repos\lower to upper\x64\Debug\lower to upper.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
