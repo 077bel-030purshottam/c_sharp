@@ -1,0 +1,15 @@
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.csproj.AssemblyReference.cache
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.GeneratedMSBuildEditorConfig.editorconfig
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.AssemblyInfoInputs.cache
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.AssemblyInfo.cs
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.csproj.CoreCompileInputs.cache
+E:\folder\third sem\c#\integer\bin\Debug\net6.0\integer.exe
+E:\folder\third sem\c#\integer\bin\Debug\net6.0\integer.deps.json
+E:\folder\third sem\c#\integer\bin\Debug\net6.0\integer.runtimeconfig.json
+E:\folder\third sem\c#\integer\bin\Debug\net6.0\integer.dll
+E:\folder\third sem\c#\integer\bin\Debug\net6.0\integer.pdb
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.dll
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\refint\integer.dll
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.pdb
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\integer.genruntimeconfig.cache
+E:\folder\third sem\c#\integer\obj\Debug\net6.0\ref\integer.dll
