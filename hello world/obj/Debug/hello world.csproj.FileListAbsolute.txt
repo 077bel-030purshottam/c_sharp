@@ -1,0 +1,16 @@
+C:\Users\pursh\source\repos\hello world\bin\Debug\hello world.exe.config
+C:\Users\pursh\source\repos\hello world\bin\Debug\hello world.exe
+C:\Users\pursh\source\repos\hello world\bin\Debug\hello world.pdb
+C:\Users\pursh\source\repos\hello world\obj\Debug\hello world.csproj.AssemblyReference.cache
+C:\Users\pursh\source\repos\hello world\obj\Debug\hello world.csproj.SuggestedBindingRedirects.cache
+C:\Users\pursh\source\repos\hello world\obj\Debug\hello world.csproj.CoreCompileInputs.cache
+C:\Users\pursh\source\repos\hello world\obj\Debug\hello world.exe
+C:\Users\pursh\source\repos\hello world\obj\Debug\hello world.pdb
+D:\folder\third sem\c#\repos\hello world\bin\Debug\hello world.exe.config
+D:\folder\third sem\c#\repos\hello world\bin\Debug\hello world.exe
+D:\folder\third sem\c#\repos\hello world\bin\Debug\hello world.pdb
+D:\folder\third sem\c#\repos\hello world\obj\Debug\hello world.csproj.AssemblyReference.cache
+D:\folder\third sem\c#\repos\hello world\obj\Debug\hello world.csproj.SuggestedBindingRedirects.cache
+D:\folder\third sem\c#\repos\hello world\obj\Debug\hello world.csproj.CoreCompileInputs.cache
+D:\folder\third sem\c#\repos\hello world\obj\Debug\hello world.exe
+D:\folder\third sem\c#\repos\hello world\obj\Debug\hello world.pdb
